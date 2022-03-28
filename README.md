@@ -1,7 +1,7 @@
 # Guasto 7
 Pagina esemplificativa dove sono riportati file, documenti e link necessari al manutentore per risolvere il guasto 7
 
-Il video è tratto dal file pdf messo a disposizione dall'azienda Körber Tissue Lucca
+Il video è tratto dal [file pdf](https://github.com/looking-for-troubles/g7/tree/main/datasheet) messo a disposizione dall'azienda Körber Tissue Lucca
 
 **Videotutorial**
 <html lang="it"> 
